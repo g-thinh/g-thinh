@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi I'm Thinh, welcome to my Github! ⚡
+
+After working as a WFM Analyst for the past few years, I enrolled into Concordia Bootcamps to start my career as a Full Stack Web-Developer. Please check out my website to learn more about my journey [here](https://giathinhnguyen.com/).
+
+I'm currently learning Angular and TypeScript to enhance my current front-end skills while exploring Google's Material Design to bring that subtle yet polished feel to my React components and my apps ✨.
+
+
 
 <!--
 **g-thinh/g-thinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
