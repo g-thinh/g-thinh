@@ -1,6 +1,6 @@
 ## I'm Thinh, A full-stack web developer ⚡
 
-I am a [coding bootcamp](https://concordiabootcamps.ca/) graduate, currently working as a frontend developer over at [CBC/Radio-Canada](https://ici.radio-canada.ca/medias-numeriques/). I like to learn about full-stack web development using JavaScript frameworks, and I occasionally write tutorials and blog posts on either my [blog](https://www.giathinhnguyen.com/) or on [Dev.to](https://dev.to/gthinh).
+I am a coding bootcamp graduate, currently working as a frontend developer over at [CBC/Radio-Canada](https://ici.radio-canada.ca/medias-numeriques/). I like to learn about full-stack web development using JavaScript frameworks, and I occasionally write tutorials and blog posts on either my [blog](https://www.giathinhnguyen.com/) or on [Dev.to](https://dev.to/gthinh).
 
 In my spare time, I work with [YAPHPA](https://www.yahpa.org/), a non-profit organisation, to build their website and I offer tutoring services to students enrolled at [Concordia Bootcamps](https://concordiabootcamps.ca/).
 
