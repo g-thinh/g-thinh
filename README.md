@@ -1,9 +1,8 @@
-## Hi I'm Thinh, welcome to my Github! ⚡
+## I'm Thinh, A full-stack web developer ⚡
 
-After working as a WFM Analyst for the past few years, I enrolled into Concordia Bootcamps to start my career as a Full Stack Web-Developer. Please check out my website to learn more about my journey [here](https://giathinhnguyen.com/).
+I am a [coding bootcamp](https://concordiabootcamps.ca/) graduate, currently working as a frontend developer over at [CBC/Radio-Canada](https://ici.radio-canada.ca/medias-numeriques/). I like to learn about full-stack web development using JavaScript frameworks, and I occasionally write tutorials and blog posts on either my [blog](https://www.giathinhnguyen.com/) or on [Dev.to](https://dev.to/gthinh).
 
-I'm currently learning Angular and TypeScript to enhance my current front-end skills while exploring Google's Material Design to bring that subtle yet polished feel to my React components and my apps ✨.
-
+In my spare time, I work with [YAPHPA](https://www.yahpa.org/), a non-profit organisation, to build their website and I offer tutoring services to students enrolled at [Concordia Bootcamps](https://concordiabootcamps.ca/).
 
 
 <!--
